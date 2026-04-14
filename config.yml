@@ -1,0 +1,12 @@
+# url_prefix: "/saml"
+
+sp_key: ""
+sp_cert: ""
+
+idp_cert: ""
+# idp_metadata: ""
+
+authn_destination: ""
+logout_destination: ""
+
+saml_issuer: ""
