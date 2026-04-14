@@ -59,7 +59,7 @@ class Route:  # pylint: disable=E1101,R0903
             "attr": {
                 "xmlns:samlp": "urn:oasis:names:tc:SAML:2.0:protocol",
                 "xmlns:saml": "urn:oasis:names:tc:SAML:2.0:assertion",
-                "ID": f"Centry_SAML_{uuid.uuid4()}",
+                "ID": f"EliteA_SAML_{uuid.uuid4()}",
                 "Version": "2.0",
                 "IssueInstant": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
                 #
